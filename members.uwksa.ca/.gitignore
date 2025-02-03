@@ -1,0 +1,12 @@
+# environment
+.env
+.venv/
+
+# Cache
+__pycache__/
+
+# Database
+*.db
+
+# Members list
+database/members.json
